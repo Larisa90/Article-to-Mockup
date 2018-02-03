@@ -1,0 +1,7 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+ I have learned to create the two main sections of an HTML document: <head> and <body>. Also I have learned to add hyperlinks and images to the website. It has been, both easy and difficult at the same time the fact that we can use the MDN element reference. Easy because you have all the date in front of you but difficult when you don’t get the code right the first time you try it on your own.It’s a lot to remember but there are a lot of tools, you just have to be patient and keep trying until you get it right. I think the best strategy is to keep track of your elements so that they do not overcome you.
